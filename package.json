@@ -1,5 +1,5 @@
 {
-  "homepage": "http://JigarUpscale.github.io/cinematime",
+  "homepage": "https://github.com/Jigisha7874/CapStoneFinal.git",
   "name": "cinematime",
   "version": "0.1.0",
   "private": true,
@@ -15,7 +15,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^0.27.2",
     "gh-pages": "^4.0.0",
-    "homepage": "https://{JigarUpscale}.github.io",
+    "i": "^0.3.7",
     "react": "^18.1.0",
     "react-alice-carousel": "^2.6.4",
     "react-dom": "^18.1.0",
